@@ -7,3 +7,11 @@ erl_crash.dump
 *.ez
 *.beam
 /config/*.secret.exs
+
+### JupyterNotebooks ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
